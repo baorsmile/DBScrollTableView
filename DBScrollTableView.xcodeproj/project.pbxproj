@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E7DF7CFC1F987EBA003B5532 /* TableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E7DF7CFB1F987EBA003B5532 /* TableViewController.m */; };
 		E7F330FD1F8F81B4006B4E7D /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = E7F330FC1F8F81B4006B4E7D /* main.m */; };
 		E7F331001F8F81B4006B4E7D /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = E7F330FF1F8F81B4006B4E7D /* AppDelegate.m */; };
 		E7F331031F8F81B4006B4E7D /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E7F331021F8F81B4006B4E7D /* ViewController.m */; };
@@ -16,6 +17,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E7DF7CFA1F987EBA003B5532 /* TableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TableViewController.h; sourceTree = "<group>"; };
+		E7DF7CFB1F987EBA003B5532 /* TableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TableViewController.m; sourceTree = "<group>"; };
 		E7F330F81F8F81B4006B4E7D /* DBScrollTableView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DBScrollTableView.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E7F330FC1F8F81B4006B4E7D /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		E7F330FE1F8F81B4006B4E7D /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -62,6 +65,8 @@
 				E7F330FF1F8F81B4006B4E7D /* AppDelegate.m */,
 				E7F331011F8F81B4006B4E7D /* ViewController.h */,
 				E7F331021F8F81B4006B4E7D /* ViewController.m */,
+				E7DF7CFA1F987EBA003B5532 /* TableViewController.h */,
+				E7DF7CFB1F987EBA003B5532 /* TableViewController.m */,
 				E7F331041F8F81B4006B4E7D /* Main.storyboard */,
 				E7F331071F8F81B4006B4E7D /* Assets.xcassets */,
 				E7F331091F8F81B4006B4E7D /* LaunchScreen.storyboard */,
@@ -153,6 +158,7 @@
 				E7F331031F8F81B4006B4E7D /* ViewController.m in Sources */,
 				E7F331001F8F81B4006B4E7D /* AppDelegate.m in Sources */,
 				E7F330FD1F8F81B4006B4E7D /* main.m in Sources */,
+				E7DF7CFC1F987EBA003B5532 /* TableViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -309,6 +315,7 @@
 				E7F331111F8F81B4006B4E7D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
